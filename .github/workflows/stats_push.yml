@@ -6,6 +6,7 @@ on:
 
 jobs:
   build:
+    if: github.repository == 'jomitame/actions-stats' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
 
     permissions:
@@ -29,4 +30,4 @@ jobs:
           commit_message: Update Stats
           commit_user_name: jomitame [GitHub Actions]
           commit_user_email: jomitame@gmail.com
-          commit_author: jomitame
+          commit_author: jomitame <jomitame@gmail.com>

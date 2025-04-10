@@ -1,1 +1,4 @@
-stats.json
+venv*/
+__pycache__/
+.env
+*.env
