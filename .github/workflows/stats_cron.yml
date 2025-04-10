@@ -27,7 +27,7 @@ jobs:
       - name: SC Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Update Stats
+          commit_message: Update Stats by Cron
           commit_user_name: jomitame [GitHub Actions]
           commit_user_email: jomitame@gmail.com
           commit_author: jomitame jomitame <jomitame@gmail.com>
