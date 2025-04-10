@@ -17,5 +17,5 @@ cd actions-stats
 ```
 ## Execute
 ```python
-python stats.py
+python retos/stats.py
 ```
