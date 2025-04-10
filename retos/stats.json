@@ -1,0 +1,68 @@
+{
+    "challenges_total": 4,
+    "languages_total": 3,
+    "files_total": 19,
+    "users_total": 3,
+    "challenges_ranking": [
+        {
+            "order": 1,
+            "name": "00 - SINTAXIS",
+            "count": 6
+        },
+        {
+            "order": 2,
+            "name": "03 - ESTRUCTURA_DATOS",
+            "count": 5
+        },
+        {
+            "order": 3,
+            "name": "01 - VARIABLES",
+            "count": 4
+        },
+        {
+            "order": 4,
+            "name": "02 - FUNCIONES",
+            "count": 4
+        }
+    ],
+    "languages_ranking": [
+        {
+            "order": 1,
+            "name": "python",
+            "count": 8,
+            "percentage": 42.11
+        },
+        {
+            "order": 2,
+            "name": "javascript",
+            "count": 7,
+            "percentage": 36.84
+        },
+        {
+            "order": 3,
+            "name": "rust",
+            "count": 4,
+            "percentage": 21.05
+        }
+    ],
+    "users_ranking": [
+        {
+            "order": 1,
+            "name": "jomitame",
+            "count": 12,
+            "languages": 3
+        },
+        {
+            "order": 2,
+            "name": "samy",
+            "count": 4,
+            "languages": 2
+        },
+        {
+            "order": 3,
+            "name": "salmita",
+            "count": 3,
+            "languages": 2
+        }
+    ]
+}
