@@ -5,7 +5,7 @@ import json
 # pattern start with two digit then an space a hyphen then another space
 CHALLENGE_PATTERN = r"^\d{2} - "
 
-EXCLUDED = ["stats.py", "stats.json", "ejercicio.md",
+EXCLUDED = ["stats.py", "stats.json", "ejercicio.md", "readme.md", ".gitignore",
             ".ds_store", "tempcoderunnerfile.py"]
 
 # the path wher this file is located

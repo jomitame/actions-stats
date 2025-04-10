@@ -22,7 +22,7 @@ jobs:
           python-version: '3.10'
       
       - name: SP Run Script
-        run: python ./stats.py
+        run: python ./retos/stats.py
 
       - name: SP Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
