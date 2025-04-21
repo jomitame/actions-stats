@@ -6,13 +6,9 @@
 *
 */
 
-// Variable
-fn main(){
-
-}
 
 fn main() {
-
+    // Variable
     let mut can_change = "this variable can change";
     let can_not_change = "this variable can not change";
 
