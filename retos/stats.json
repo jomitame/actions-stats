@@ -1,7 +1,7 @@
 {
     "challenges_total": 4,
     "languages_total": 3,
-    "files_total": 19,
+    "files_total": 20,
     "users_total": 3,
     "challenges_ranking": [
         {
@@ -16,12 +16,12 @@
         },
         {
             "order": 3,
-            "name": "02 - FUNCIONES",
-            "count": 4
+            "name": "01 - VARIABLES",
+            "count": 5
         },
         {
             "order": 4,
-            "name": "01 - VARIABLES",
+            "name": "02 - FUNCIONES",
             "count": 4
         }
     ],
@@ -30,19 +30,19 @@
             "order": 1,
             "name": "python",
             "count": 8,
-            "percentage": 42.11
+            "percentage": 40.0
         },
         {
             "order": 2,
             "name": "javascript",
-            "count": 7,
-            "percentage": 36.84
+            "count": 8,
+            "percentage": 40.0
         },
         {
             "order": 3,
             "name": "rust",
             "count": 4,
-            "percentage": 21.05
+            "percentage": 20.0
         }
     ],
     "users_ranking": [
@@ -61,7 +61,7 @@
         {
             "order": 3,
             "name": "salmita",
-            "count": 3,
+            "count": 4,
             "languages": 2
         }
     ]
