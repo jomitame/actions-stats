@@ -12,6 +12,7 @@ There are two actions:
 
 ## Download
 ```sh
+cd git_projects
 git clone git@github.com:jomitame/actions-stats.git
 cd actions-stats
 ```
