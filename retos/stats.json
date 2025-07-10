@@ -1,18 +1,18 @@
 {
     "challenges_total": 4,
     "languages_total": 3,
-    "files_total": 20,
+    "files_total": 21,
     "users_total": 3,
     "challenges_ranking": [
         {
             "order": 1,
-            "name": "00 - SINTAXIS",
+            "name": "03 - ESTRUCTURA_DATOS",
             "count": 6
         },
         {
             "order": 2,
-            "name": "03 - ESTRUCTURA_DATOS",
-            "count": 5
+            "name": "00 - SINTAXIS",
+            "count": 6
         },
         {
             "order": 3,
@@ -30,19 +30,19 @@
             "order": 1,
             "name": "python",
             "count": 8,
-            "percentage": 40.0
+            "percentage": 38.1
         },
         {
             "order": 2,
             "name": "javascript",
             "count": 8,
-            "percentage": 40.0
+            "percentage": 38.1
         },
         {
             "order": 3,
             "name": "rust",
-            "count": 4,
-            "percentage": 20.0
+            "count": 5,
+            "percentage": 23.81
         }
     ],
     "users_ranking": [
@@ -54,13 +54,13 @@
         },
         {
             "order": 2,
-            "name": "samy",
-            "count": 4,
-            "languages": 2
+            "name": "salmita",
+            "count": 5,
+            "languages": 3
         },
         {
             "order": 3,
-            "name": "salmita",
+            "name": "samy",
             "count": 4,
             "languages": 2
         }
