@@ -6,12 +6,12 @@
     "challenges_ranking": [
         {
             "order": 1,
-            "name": "03 - ESTRUCTURA_DATOS",
+            "name": "00 - SINTAXIS",
             "count": 6
         },
         {
             "order": 2,
-            "name": "00 - SINTAXIS",
+            "name": "03 - ESTRUCTURA_DATOS",
             "count": 6
         },
         {
