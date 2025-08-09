@@ -28,13 +28,13 @@
     "languages_ranking": [
         {
             "order": 1,
-            "name": "python",
+            "name": "javascript",
             "count": 8,
             "percentage": 36.36
         },
         {
             "order": 2,
-            "name": "javascript",
+            "name": "python",
             "count": 8,
             "percentage": 36.36
         },
