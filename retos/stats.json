@@ -1,13 +1,13 @@
 {
     "challenges_total": 4,
     "languages_total": 3,
-    "files_total": 22,
+    "files_total": 23,
     "users_total": 3,
     "challenges_ranking": [
         {
             "order": 1,
             "name": "00 - SINTAXIS",
-            "count": 7
+            "count": 8
         },
         {
             "order": 2,
@@ -28,21 +28,21 @@
     "languages_ranking": [
         {
             "order": 1,
-            "name": "python",
-            "count": 8,
-            "percentage": 36.36
+            "name": "javascript",
+            "count": 9,
+            "percentage": 39.13
         },
         {
             "order": 2,
-            "name": "javascript",
+            "name": "python",
             "count": 8,
-            "percentage": 36.36
+            "percentage": 34.78
         },
         {
             "order": 3,
             "name": "rust",
             "count": 6,
-            "percentage": 27.27
+            "percentage": 26.09
         }
     ],
     "users_ranking": [
@@ -55,7 +55,7 @@
         {
             "order": 2,
             "name": "salmita",
-            "count": 6,
+            "count": 7,
             "languages": 3
         },
         {
